@@ -1,0 +1,8 @@
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+|№|Summary|STR|Result|Expected Result|Environment|Priority|Attachment|
+|1|Registration is unavailable due to the absence of a country in the dropdown|1. Open the registration page https://aliexpress.ru/ 2. Choose 'Register by SMS' 3. Choose in dropdown related country |Registration is unavailable due to the absence of a country in the dropdown |User is registered|Windows 10 Pro  64-bit Operating System, x64-based processor  Google Chrome Version 96.0.4664.93|High|https://drive.google.com/file/d/1Z2swVvlMzDjNMLV5y9FjGAKGeC7W31wM/view?usp=sharing|
+| | | | | | | | |
+|2|Localization: 'BYR' currency is not working in the cart products|1. Open site https://aliexpress.ru/ 2. In the settings change currency to 'BYR' 3. Check the price of any product in the cart|Any price is displayed in USD currency|Any price is displayed in BYR (Belarusian ruble)|Windows 10 Pro  64-bit Operating System, x64-based processor  Google Chrome Version 96.0.4664.93|Medium|https://drive.google.com/file/d/1G3SYLvmi-X-cMODdq7oN4xTCKAmEVS96/view?usp=sharing|
+| | | | | | | | |
+|3|Localization: prices in 'BYR' are calculated at the wrong rate on the product page|1. Open site https://aliexpress.ru/ 2. In the settings change currency to 'BYR' 3. Check the price of any product on the product page|Any price is converted to BYR at the wrong rate|Any price is converted into 'BYR' according to the exchange rate on the currency market|Windows 10 Pro  64-bit Operating System, x64-based processor  Google Chrome Version 96.0.4664.93|Medium|https://drive.google.com/file/d/1K33FwV_ljw7hQIhL5kLLXUom2E8_gpPX/view?usp=sharing|
